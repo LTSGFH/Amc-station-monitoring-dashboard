@@ -1,6 +1,6 @@
 # 🏭 AMC Station Monitoring Dashboard (Power BI)
 
-![Dashboard Preview](amc_dashboard.png)
+![Dashboard Preview](AMC_Dashboard.png)
 
 ## 🔍 Quick Summary
 Dashboard to monitor AMC station performance, engineer workload, and operational efficiency.
