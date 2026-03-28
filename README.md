@@ -3,7 +3,7 @@
 ![Dashboard Preview](AMC_Dashboard.png)
 
 ## 🔍 Quick Summary
-Dashboard to monitor AMC station performance, engineer workload, and operational efficiency.
+Power BI dashboard developed to monitor AMC station performance, engineer workload, and operational efficiency.
 
 ---
 
@@ -18,69 +18,38 @@ Dashboard to monitor AMC station performance, engineer workload, and operational
 ## 📈 Key Insights
 - Station performance tracking  
 - Engineer workload distribution  
-- Failure handling and resolution time  
-- Operational efficiency metrics  
+- Failure and downtime analysis  
+- Operational efficiency monitoring  
 
 ---
 
-## 🧩 Dataset Description
+## 📊 Dashboard Overview
 
-The project uses multiple datasets:
-
-### Stations
-- Station ID  
-- Station Name  
-- Location  
-
-### Engineers
-- Engineer ID  
-- Name  
-- Assigned Zone  
-
-### Failures
-- Failure Type  
-- Reported Time  
-- Resolved Time  
-- Downtime  
-
----
-
-## 📊 Dashboard Views
-
-### Station Performance
-![Station](amc_station.png)
+This dashboard provides insights into:
 
 - Station-wise performance  
-- Failure counts  
-
----
-
-### Engineer Analysis
-![Engineer](amc_engineer.png)
-
-- Workload distribution  
-- Resolution efficiency  
-
----
-
-### Failure Monitoring
-![Failure](amc_failure.png)
-
-- Downtime tracking  
-- Failure trends  
+- Engineer activity and workload  
+- Failure tracking and resolution  
+- Downtime monitoring  
 
 ---
 
 ## 🎯 Objective
-To improve maintenance operations and track engineer performance effectively.
+To improve maintenance operations and provide visibility into station performance and engineer productivity.
 
 ---
 
 ## 💼 Business Impact
 
-- Improves maintenance efficiency  
-- Tracks engineer productivity  
-- Reduces downtime and operational delays  
+- Helps track station performance effectively  
+- Improves engineer workload management  
+- Reduces downtime through better monitoring  
+- Supports data-driven maintenance decisions  
+
+---
+
+## 📄 Full Report
+Download complete dashboard: **AMC_Dashboard.pdf**
 
 ---
 
